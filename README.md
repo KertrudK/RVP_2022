@@ -5,7 +5,7 @@
 - [x] Erinevad komponentide suurused -> teha kõik komponendid 0603 ja footprindid õiges suuruses
 - [x] Via-de  suuruse parandus üld-dia = 0.6mm ja ava 0.3mm
 - [x] Viade parandus
-- [ ] Led tulede anode ja cathode parandus
+- [x] Led tulede anode ja cathode parandus
 - [x] Ava ja radade vahel suuremad vahed
 - [X] Radade kontroll 
 - [X] Teha radad otsemaks.. MITTE RINGIGA
