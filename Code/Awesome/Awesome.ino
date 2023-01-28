@@ -8,7 +8,7 @@
 // Switch 3 is using 20 pin on ATmega32u4, it would be Digital 0 pin
 // Switch 4 is using 21 pin on ATmega32u4, it would be Digital 1 pin
 // Switch 5 is using 25 pin on ATmega32u4, it would be Digital 4 pin
-// Switch 6 is using 22 pin on ATmega32u4, it would be Digital 6 pin
+// Switch 6 is using 27 pin on ATmega32u4, it would be Digital 6 pin
 // For LED's 32 pin on ATmega32u4, it would be Digital 13 pin
 
 
